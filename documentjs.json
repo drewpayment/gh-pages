@@ -1,11 +1,7 @@
 {
 	"sites": {
 		"api": {
-			"glob": "{lib,docs}/**/*.{js,md}"
-		},
-		"docs": {
-			"parent" : "styleguide"
-		},
-		"dest": "demo"
+			"glob": "*.{js,md}"
+		}
 	}
 }
